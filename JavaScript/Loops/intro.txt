@@ -1,0 +1,7 @@
+What is Loop?
+Doing same work mutiple times in a repeated manner
+
+Real Life Example:
+print 1-100;
+Adding marks of 10 students
+Print Hello 28 times
