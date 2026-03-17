@@ -1,0 +1,3 @@
+JavaScript biggest upgrade happened in the year 2015.
+ES6-> ECMASCRIPT 2015
+New feature and syntax were introduced to make the language more modern , readable and powerful.
